@@ -60,7 +60,7 @@ namespace Camunda.Api.Client
     }
 
     /// <summary>
-    /// Exception thrown by the process engine in case a user tries to interact with a resource in an unauthorized way.
+    /// Exception thrown by the process engine in case a user tries to interact with a resource in an unauthorized way. TEST PUSH
     /// </summary>
     public class AuthorizationException : ApiException
     {
